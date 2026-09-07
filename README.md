@@ -1,4 +1,4 @@
-# 🧩 Maze Runner — 8086 Assembly
+# 🧩 Maze Runner 
 
 A console-based **Maze Runner game written in 8086 Assembly Language** for **EMU8086 4.08**.
 
